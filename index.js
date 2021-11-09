@@ -63,7 +63,7 @@ export default CodeSnippet;
     id: 4,
     categories: ["frontEnd", "javaScript"],
     date: "10/29/2021",
-    title: "Code Snippets",
+    title: "Unit Tests",
     body: "Unit tests for this project are built with jest and testing-library/react.  testing-library/react makes testing react components simple and straightforward.  Here's an example on how to test the click handler of the filter buttons found at the top of this blog.",
     code: `
 test("BlogCategorySelect category can be toggled", () => {
