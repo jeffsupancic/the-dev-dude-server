@@ -1,0 +1,25 @@
+{
+  "name": "the-dev-dude-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffsupancic/the-dev-dude-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffsupancic/the-dev-dude-server/issues"
+  },
+  "homepage": "https://github.com/jeffsupancic/the-dev-dude-server#readme",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^16.0.1"
+  }
+}
